@@ -1,6 +1,6 @@
 [project]
 name = "podlet"
-version = "0.1.0"
+version = "1.0.3"
 description = "Add your description here"
 readme = "README.md"
 authors = [
@@ -8,8 +8,6 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "inflection>=0.5.1",
-    "pydantic>=2.12.3",
     "pytest>=8.4.2",
 ]
 
